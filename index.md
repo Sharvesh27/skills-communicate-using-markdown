@@ -1,6 +1,5 @@
-# My First Markdown text
-## GitHub is cool!
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-``` javascript
-var Myvar = "Hello World!";
-```
+# List of tasks to learn in GitHub
+### Tasks:-
+- [ ] Turn on GitHub pages
+- [ ] Outline my Porfolio
+- [ ] Introduce myself to the world
